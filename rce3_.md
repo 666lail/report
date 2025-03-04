@@ -1,4 +1,4 @@
-![image-20250225202220657](./assets/image-20250225202220657.png)
+![image-20250225202220657](./image-20250225202220657.png)
 
 # Vulnerability Report
 ## Vendor Homepage
