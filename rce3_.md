@@ -59,7 +59,7 @@ public void examExportPDF(HttpServletResponse response, @RequestParam("id") Stri
 http://uri/plan/examExportPDF?id=1;ping 9e9e4078.log.nat.cloudns.ph.;
 ```
 
-![image-20250225210555561](./assets/image-20250225210555561.png)
+![image-20250225210555561](./image-20250225210555561.png)
 
 ### Impact:
 
